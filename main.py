@@ -1,7 +1,3 @@
-from typing import List
-
-quitFlag = True
-
 fox = True
 hen = True
 grain = True
@@ -74,7 +70,3 @@ elif play_game == 1:
                                     print("You pick up the Hen and place it at the other side of the bridge.\n"
                                           "Looks like your job here is done!")
                                     print("Congratulations! You've won the game...Goodbye!")
-
-        # if res == 2:
-        #
-        # if res == 3:
